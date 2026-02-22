@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ethanluo (Ethan Luo)
+- 👋 Hi, I’m @Ethanyxlo (Ethan Lo)
 - 🎓 I’m a graduate student majoring in Economics at HSE University, Russia
 - 👀 I’m interested in development economics, health economics, econometrics, and AI applications in social science
 - 🌱 I’m currently learning advanced econometrics, Python for data analysis, and machine learning methods
